@@ -62,4 +62,14 @@ img {
 .nav-white {
   background-color: #fff;
   width: 95%;
+  padding: 40px;
+  position: relative;
 }
+
+.close-btn {
+  position: absolute;
+  top: 40px;
+  right: 30px;
+  opacity: 0.4;
+}
+
